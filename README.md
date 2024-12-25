@@ -179,7 +179,7 @@ programming in Python.
 - Clone this repo:
 
 ```
-git clone https://github.com/Kolminch/mirror-leech-telegram-bot mirrorbot/ && cd mirrorbot2
+git clone https://github.com/Kolminch/mirror-leech-bot mirrorbot2/ && cd mirrorbot2
 ```
 
 - For Debian based distros

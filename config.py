@@ -25,7 +25,7 @@ FFMPEG_CMDS = []
 GDRIVE_ID = "1h3GsmZWMcYFQPj2WdZBgCrd1QRKBWCK8"
 IS_TEAM_DRIVE = True
 STOP_DUPLICATE = False
-INDEX_URL = "https://avas.adthiyaadu26.workers.dev"
+INDEX_URL = "https://avas.adthiyaadu26.workers.dev/"
 # Rclone
 RCLONE_PATH = ""
 RCLONE_FLAGS = ""
